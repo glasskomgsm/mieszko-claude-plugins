@@ -1,0 +1,13 @@
+{
+  "name": "mieszko-claude-plugins",
+  "owner": {
+    "name": "Mieszko"
+  },
+  "plugins": [
+    {
+      "name": "animatronics-workshop",
+      "source": "./animatronics-workshop",
+      "description": "Design simple animatronics from off-the-shelf parts: mechanism design, Excel parts lists with Polish suppliers, free 3D model sourcing for Onshape, and fabrication/assembly planning."
+    }
+  ]
+}
