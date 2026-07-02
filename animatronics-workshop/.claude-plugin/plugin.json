@@ -1,0 +1,9 @@
+{
+  "name": "animatronics-workshop",
+  "version": "0.1.0",
+  "description": "Design simple animatronics from off-the-shelf parts: mechanism design, Excel parts lists with Polish suppliers, free 3D model sourcing for Onshape, and fabrication/assembly planning.",
+  "author": {
+    "name": "Mieszko"
+  },
+  "keywords": ["animatronics", "mechanical", "BOM", "fabrication", "hobby"]
+}
